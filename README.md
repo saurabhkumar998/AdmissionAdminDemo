@@ -17,6 +17,7 @@ Technologies used:
 ![](images/5.png)
 ![](images/6.png)
 LOGIN PAGE
+Used Firebase Authentication
 ![](images/7.png)
-ADMIN PAGE
+ADMIN PAGE Using Firebase
 ![](images/8.png)
