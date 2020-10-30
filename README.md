@@ -21,5 +21,5 @@ LOGIN PAGE
 Using Firebase Authentication
 ![](images/7.png)
 ADMIN PAGE 
-Using Firebase
+Using Firebase Database
 ![](images/8.png)
