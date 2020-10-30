@@ -1,7 +1,8 @@
 # AdmissionAdminDemo
-Demo of website admissionadmin
+Demo of website admissionadmin (www.admissionadmin.com)
 
-Technologies used:
+Using : 
+
 1.HTML
 2.CSS
 3.Bootstrap
