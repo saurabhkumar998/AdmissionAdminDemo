@@ -18,7 +18,8 @@ Using :
 ![](images/5.png)
 ![](images/6.png)
 LOGIN PAGE
-Used Firebase Authentication
+Using Firebase Authentication
 ![](images/7.png)
-ADMIN PAGE Using Firebase
+ADMIN PAGE 
+Using Firebase
 ![](images/8.png)
