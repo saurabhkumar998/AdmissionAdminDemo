@@ -1,7 +1,14 @@
 # AdmissionAdminDemo
 Demo of website admissionadmin
 
-Can not show the code because i have developed this website for a client.
+Technologies used:
+1.HTML
+2.CSS
+3.Bootstrap
+4.Javascript
+5.Jquery
+6.Firebase
+
 
 ![](images/1.png)
 ![](images/2.png)
